@@ -1,4 +1,0 @@
-Id: 2 | Email: user2@gmail.com
-Activity log:
-1. [delete record] at 2025-02-04 11:54:27.6003364 +0500 +05 m=+0.000518501
-2. [delete record] at 2025-02-04 11:54:27.6003364 +0500 +05 m=+0.000518501
